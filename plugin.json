@@ -1,0 +1,11 @@
+{
+  "id": "mangoLayouts",
+  "name": "MangoWM Layouts",
+  "description": "A simple widget to switch between MangoWM layouts.",
+  "version": "1.0.0",
+  "author": "ernestowg",
+  "icon": "window",
+  "capabilities": ["dankbar-widget"],
+  "component": "./mangoLayouts.qml",
+  "permissions": ["process"]
+}

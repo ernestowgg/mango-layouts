@@ -63,6 +63,10 @@ PluginComponent {
             code: "F",
             name: "Fair"
         },
+        {
+            code: "VF",
+            name: "V. Fair"
+        },
     ]
 
     function parseLayout(line) {
